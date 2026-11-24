@@ -1,0 +1,367 @@
+{
+ "name": "PalmSense curated palmistry knowledge base",
+ "version": "1.0",
+ "sources": [
+  "Cheiro (William John Warner), 'Cheiro's Language of the Hand' (1897, public domain)",
+  "General traditional palmistry conventions, summarised and rewritten in our own words by the project team"
+ ],
+ "entries": [
+  {
+   "id": "KB001",
+   "line": "heart",
+   "condition": "long",
+   "section": "relationships",
+   "text": "In traditional palmistry a long heart line is associated with an open, generous and expressive emotional nature."
+  },
+  {
+   "id": "KB002",
+   "line": "heart",
+   "condition": "short",
+   "section": "relationships",
+   "text": "A short heart line is traditionally read as a more private person who shows affection through actions rather than words."
+  },
+  {
+   "id": "KB003",
+   "line": "heart",
+   "condition": "curves up toward the fingers",
+   "section": "relationships",
+   "text": "A heart line that curves upward toward the fingers is classically linked with warmth, romance and openly showing feelings."
+  },
+  {
+   "id": "KB004",
+   "line": "heart",
+   "condition": "runs fairly straight across the palm",
+   "section": "personality",
+   "text": "A heart line running straight across the palm is traditionally linked with a calm, rational approach to emotions."
+  },
+  {
+   "id": "KB005",
+   "line": "heart",
+   "condition": "deep clear",
+   "section": "relationships",
+   "text": "A deep, clearly marked heart line is said in palmistry to suggest strong and steady emotional commitment."
+  },
+  {
+   "id": "KB006",
+   "line": "heart",
+   "condition": "faint",
+   "section": "relationships",
+   "text": "A faint heart line is traditionally read as sensitivity and a tendency to keep emotions guarded."
+  },
+  {
+   "id": "KB007",
+   "line": "heart",
+   "condition": "gently curved strongly curved",
+   "section": "personality",
+   "text": "A curved heart line is described in palmistry as an affectionate, spontaneous temperament."
+  },
+  {
+   "id": "KB008",
+   "line": "heart",
+   "condition": "straight",
+   "section": "personality",
+   "text": "A straight heart line is often described as practical and thoughtful in matters of the heart."
+  },
+  {
+   "id": "KB009",
+   "line": "heart",
+   "condition": "not clearly visible",
+   "section": "uncertainty",
+   "text": "When the heart line cannot be seen clearly in the photo, no traditional reading of it should be given."
+  },
+  {
+   "id": "KB010",
+   "line": "head",
+   "condition": "long",
+   "section": "career",
+   "text": "A long head line is traditionally linked with thorough thinking, planning and enjoyment of detailed work."
+  },
+  {
+   "id": "KB011",
+   "line": "head",
+   "condition": "short",
+   "section": "career",
+   "text": "A short head line is classically read as quick, decisive and practical thinking."
+  },
+  {
+   "id": "KB012",
+   "line": "head",
+   "condition": "straight runs fairly straight across",
+   "section": "career",
+   "text": "A straight head line is associated in palmistry with logical, analytical and structured thinking - often linked with technical or business careers."
+  },
+  {
+   "id": "KB013",
+   "line": "head",
+   "condition": "slopes down toward the wrist",
+   "section": "career",
+   "text": "A head line sloping toward the wrist is traditionally linked with imagination and creativity, often associated with artistic or creative careers."
+  },
+  {
+   "id": "KB014",
+   "line": "head",
+   "condition": "gently curved strongly curved",
+   "section": "personality",
+   "text": "A curved head line is said to show flexible, creative thinking."
+  },
+  {
+   "id": "KB015",
+   "line": "head",
+   "condition": "deep clear",
+   "section": "personality",
+   "text": "A deep head line is traditionally read as strong concentration and a focused mind."
+  },
+  {
+   "id": "KB016",
+   "line": "head",
+   "condition": "faint",
+   "section": "personality",
+   "text": "A faint head line is traditionally read as a mind that prefers variety and may wander between ideas."
+  },
+  {
+   "id": "KB017",
+   "line": "head",
+   "condition": "joined with life line",
+   "section": "personality",
+   "text": "When the head and life lines start joined together, palmistry traditionally describes a careful person who thinks before acting."
+  },
+  {
+   "id": "KB018",
+   "line": "head",
+   "condition": "separate from life line",
+   "section": "personality",
+   "text": "When the head line starts separately from the life line, tradition describes an independent, adventurous spirit."
+  },
+  {
+   "id": "KB019",
+   "line": "head",
+   "condition": "not clearly visible",
+   "section": "uncertainty",
+   "text": "When the head line is not clearly visible, palmistry readings about thinking style should not be given."
+  },
+  {
+   "id": "KB020",
+   "line": "life",
+   "condition": "long",
+   "section": "future",
+   "text": "In palmistry a long life line is read as vitality and enthusiasm. It does NOT predict how long a person will live."
+  },
+  {
+   "id": "KB021",
+   "line": "life",
+   "condition": "short",
+   "section": "future",
+   "text": "A short life line is a common feature; palmists say it does NOT mean a short life - it is traditionally read as independence."
+  },
+  {
+   "id": "KB022",
+   "line": "life",
+   "condition": "wide arc into the palm",
+   "section": "personality",
+   "text": "A life line making a wide arc into the palm is traditionally linked with energy, enthusiasm and love of activity."
+  },
+  {
+   "id": "KB023",
+   "line": "life",
+   "condition": "close arc around the thumb",
+   "section": "personality",
+   "text": "A life line hugging the thumb is traditionally read as a reserved, home-loving and cautious nature."
+  },
+  {
+   "id": "KB024",
+   "line": "life",
+   "condition": "deep clear",
+   "section": "future",
+   "text": "A deep, clear life line is traditionally associated with a stable, energetic life path."
+  },
+  {
+   "id": "KB025",
+   "line": "life",
+   "condition": "faint",
+   "section": "future",
+   "text": "A faint life line is traditionally read as a gentle or variable energy level; it is not a health prediction."
+  },
+  {
+   "id": "KB026",
+   "line": "life",
+   "condition": "strongly curved gently curved",
+   "section": "personality",
+   "text": "A strongly curved life line is classically associated with stamina and a warm, outgoing nature."
+  },
+  {
+   "id": "KB027",
+   "line": "life",
+   "condition": "not clearly visible",
+   "section": "uncertainty",
+   "text": "If the life line is unclear, no reading of it should be given, and it must never be connected to health or lifespan."
+  },
+  {
+   "id": "KB028",
+   "line": "fate",
+   "condition": "detected present",
+   "section": "career",
+   "text": "A visible fate line is traditionally linked with a sense of direction and a career path shaped by personal goals."
+  },
+  {
+   "id": "KB029",
+   "line": "fate",
+   "condition": "long",
+   "section": "career",
+   "text": "A long fate line is read in palmistry as steady commitment to one career direction."
+  },
+  {
+   "id": "KB030",
+   "line": "fate",
+   "condition": "short medium",
+   "section": "career",
+   "text": "A shorter fate line is traditionally read as a career direction that becomes clear later in life."
+  },
+  {
+   "id": "KB031",
+   "line": "fate",
+   "condition": "not clearly visible absent",
+   "section": "career",
+   "text": "Many people have no visible fate line. Palmists traditionally read this as a flexible, self-made path with many possible directions."
+  },
+  {
+   "id": "KB032",
+   "line": "fate",
+   "condition": "straight",
+   "section": "career",
+   "text": "A straight fate line is traditionally linked with a consistent, well-planned career."
+  },
+  {
+   "id": "KB033",
+   "line": "shape",
+   "condition": "earth square short",
+   "section": "personality",
+   "text": "An Earth hand (square palm, shorter fingers) is traditionally described as practical, reliable and hard-working."
+  },
+  {
+   "id": "KB034",
+   "line": "shape",
+   "condition": "earth",
+   "section": "career",
+   "text": "Earth hands are traditionally linked with hands-on careers such as engineering, farming, building or management."
+  },
+  {
+   "id": "KB035",
+   "line": "shape",
+   "condition": "air square long",
+   "section": "personality",
+   "text": "An Air hand (square palm, long fingers) is traditionally described as curious, communicative and intellectual."
+  },
+  {
+   "id": "KB036",
+   "line": "shape",
+   "condition": "air",
+   "section": "career",
+   "text": "Air hands are traditionally linked with communication, teaching, writing, IT and analytical careers."
+  },
+  {
+   "id": "KB037",
+   "line": "shape",
+   "condition": "water long rectangular long",
+   "section": "personality",
+   "text": "A Water hand (long palm, long fingers) is traditionally described as sensitive, intuitive and imaginative."
+  },
+  {
+   "id": "KB038",
+   "line": "shape",
+   "condition": "water",
+   "section": "career",
+   "text": "Water hands are traditionally linked with creative, caring and artistic careers."
+  },
+  {
+   "id": "KB039",
+   "line": "shape",
+   "condition": "fire long rectangular short",
+   "section": "personality",
+   "text": "A Fire hand (long palm, shorter fingers) is traditionally described as energetic, confident and enthusiastic."
+  },
+  {
+   "id": "KB040",
+   "line": "shape",
+   "condition": "fire",
+   "section": "career",
+   "text": "Fire hands are traditionally linked with leadership, entrepreneurship, sports and performance."
+  },
+  {
+   "id": "KB041",
+   "line": "finance",
+   "condition": "head long deep",
+   "section": "finance",
+   "text": "Traditional palmistry links a strong, long head line with careful planning, which palmists connect with steady management of money."
+  },
+  {
+   "id": "KB042",
+   "line": "finance",
+   "condition": "fate present",
+   "section": "finance",
+   "text": "A clear fate line is traditionally connected with financial stability coming from consistent work."
+  },
+  {
+   "id": "KB043",
+   "line": "finance",
+   "condition": "earth shape",
+   "section": "finance",
+   "text": "Earth hands are traditionally associated with saving and practical, cautious money habits."
+  },
+  {
+   "id": "KB044",
+   "line": "finance",
+   "condition": "fire air shape",
+   "section": "finance",
+   "text": "Fire and Air hands are traditionally associated with opportunity-seeking and new ventures."
+  },
+  {
+   "id": "KB045",
+   "line": "finance",
+   "condition": "general",
+   "section": "finance",
+   "text": "Palmistry has no scientific ability to predict wealth. Any prosperity theme is a traditional story only and must not guide financial decisions."
+  },
+  {
+   "id": "KB046",
+   "line": "comparison",
+   "condition": "left right difference",
+   "section": "comparison",
+   "text": "A common palmistry tradition says the non-dominant hand shows natural potential and the dominant hand shows what a person has developed."
+  },
+  {
+   "id": "KB047",
+   "line": "comparison",
+   "condition": "same similar",
+   "section": "comparison",
+   "text": "When both palms look similar, palmists traditionally say a person has stayed close to their natural tendencies."
+  },
+  {
+   "id": "KB048",
+   "line": "general",
+   "condition": "disclaimer",
+   "section": "uncertainty",
+   "text": "Palmistry is a cultural and entertainment practice. It is not scientifically validated for predicting personality, health, wealth, relationships or the future."
+  },
+  {
+   "id": "KB049",
+   "line": "general",
+   "condition": "health",
+   "section": "uncertainty",
+   "text": "Palm lines must never be used to make health or lifespan predictions. For health questions, consult a medical professional."
+  },
+  {
+   "id": "KB050",
+   "line": "general",
+   "condition": "minor creases many",
+   "section": "personality",
+   "text": "Many fine creases are traditionally read as a sensitive, detail-aware personality."
+  },
+  {
+   "id": "KB051",
+   "line": "general",
+   "condition": "minor creases few",
+   "section": "personality",
+   "text": "A palm with few extra creases is traditionally read as a calm, uncomplicated temperament."
+  }
+ ]
+}

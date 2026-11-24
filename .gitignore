@@ -1,0 +1,26 @@
+# Secrets and environment variables
+.env
+.streamlit/secrets.toml
+.env.*
+
+# Local data and databases
+data/
+*.db
+*.key
+
+# Palm images and biometric datasets
+dataset_synthetic/
+demo_images/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE and system files
+.vscode/
+.DS_Store
+Thumbs.db
